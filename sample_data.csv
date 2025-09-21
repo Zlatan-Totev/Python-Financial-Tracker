@@ -1,0 +1,13 @@
+t_date,amount,category,description
+2025-01-01,2000,Income,Paycheck
+2025-01-02,-800,Rent,January rent
+2025-01-03,-120,Groceries,Weekly groceries
+2025-01-05,-60,Transportation,Gas
+2025-02-01,2000,Income,Paycheck
+2025-02-02,-800,Rent,February rent
+2025-02-04,-45,Utilities,Electric
+2025-02-06,-90,Dining,Takeout
+2025-03-01,2000,Income,Paycheck
+2025-03-02,-800,Rent,March rent
+2025-03-05,-150,Groceries,Weekly groceries
+2025-03-08,-40,Entertainment,Movie night
